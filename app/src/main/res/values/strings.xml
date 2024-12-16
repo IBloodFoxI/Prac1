@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="frame_animation">Frame Animation</string>
+    <string name="tween_animation">Tween Animation</string>
+    <string name="back">back</string>
+</resources>
